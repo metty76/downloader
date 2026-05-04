@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [lineage-23.2-20260429-nightly-rosemary-signed](https://github.com/metty76/downloader/tree/main/downloads/lineage-23.2-20260429-nightly-rosemary-signed)
+
+---
